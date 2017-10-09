@@ -1,4 +1,6 @@
 # Brubeck
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fbrubeck.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fbrubeck?ref=badge_shield)
+
 
 Brubeck is a [statsd](https://github.com/etsy/statsd)-compatible stats
 aggregator written in C.
@@ -197,3 +199,7 @@ and not a cheap cloud VPS. Make sure your NIC has the right drivers and it's not
 bottlenecking. Install a newer kernel and try running with `SO_REUSEPORT`.
 
 If nothing works, refunds are available upon request. Just get mad at me on Twitter.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fbrubeck.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fbrubeck?ref=badge_large)
